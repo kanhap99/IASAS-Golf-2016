@@ -54,13 +54,9 @@
 
         <!-- Marketing Icons Section -->
         <div class="row">
-            <div class="col-lg-">
-                <h1 class="page-header">
-                    Welcome to the IASAS Golf 2016 Tournament!
-                </h1>
-            </div>
+
             <div class="col-md-12">
-                <p>Logo comes here</p>
+                <img class="img-responsive" src="/golf/img/golfLogo.JPG"/>
             </div>
         </div>
         <!-- /.row -->
