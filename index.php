@@ -30,13 +30,13 @@
                 <div class="fill" style="background-image:url('img/front-fountain.jpg');"></div>
             </div>
             <div class="item">
-                <div class="fill" style="background-image:url('img/front-fountain.jpg');"></div>
+                <div class="fill" style="background-image:url('img/male.png');"></div>
             </div>
             <div class="item">
-                <div class="fill" style="background-image:url('img/front-fountain.jpg');"></div>
+                <div class="fill" style="background-image:url('img/female.png');"></div>
             </div>
             <div class="item">
-                <div class="fill" style="background-image:url('img/front-fountain.jpg');"></div>
+                <div class="fill" style="background-image:url('img/JGCC.png');"></div>
             </div>
         </div>
 
@@ -56,7 +56,7 @@
         <div class="row">
 
             <div class="col-md-12">
-                <img class="img-responsive" src="/golf/img/golfLogo.JPG"/>
+                <img class="img-responsive" src="/golf/img/golf-logo.JPG"/>
             </div>
         </div>
         <!-- /.row -->

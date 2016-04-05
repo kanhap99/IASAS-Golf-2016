@@ -43,7 +43,7 @@
       <!--Videos-->
       <div class="row">
         <div class="container" style="margin: auto; text-align:center">
-          <h3>Course Hole Videos</h3>
+          <h3>JGCC New Course Videos #1-18</h3>
           <iframe width="560" height="315" src="https://www.youtube.com/embed/lwoDTHC1PZQ?list=PL6Kks4jcodhLZfxyfeH1Yt2PQUYo5IBIO" frameborder="0" allowfullscreen></iframe>
         </div>
       </div>
